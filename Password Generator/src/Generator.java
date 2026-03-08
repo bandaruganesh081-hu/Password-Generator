@@ -36,7 +36,7 @@ public class Generator {
                     printUsefulInfo();
                     printMenu();
                 }
-                case "4" -> printQuitMessage();
+                case "5" -> printQuitMessage();
                 default -> {
                     System.out.println();
                     System.out.println("Kindly select one of the available commands");
