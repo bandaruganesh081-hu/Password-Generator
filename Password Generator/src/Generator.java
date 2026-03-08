@@ -78,7 +78,7 @@ public class Generator {
     }
 
     private void requestPassword() {
-        boolean IncludeUpper = false;
+        boolean IncludeUpper = true;
         boolean IncludeLower = false;
         boolean IncludeNum = false;
         boolean IncludeSym = false;
